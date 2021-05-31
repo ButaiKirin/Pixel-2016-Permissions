@@ -4,7 +4,7 @@
 Get all the special features of Google Pixel (2016) on a general Android device. 
 
 ## Requirements
- -Magisk
+ -Magisk installed
 
  -Any ROM
 
@@ -14,8 +14,9 @@ This module may not run on the latest Pixel phones with stock ROM or other phone
 Flash the module in Magisk Manager first. After reboot, you need reset Google Photos to see the changes.
 
 ## Release & Changelog
-Download from the release page: 
-https://github.com/ZeroSimple/Pixel-2016-Permissions/releases/tag/v1.0
+Download the module from [release page](https://github.com/ZeroSimple/Pixel-2016-Permissions/releases/tag/v1.0). 
 
-Release v1.0
+
+### Release v1.0
+
  -The first version. 

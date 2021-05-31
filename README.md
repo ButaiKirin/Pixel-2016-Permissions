@@ -1,4 +1,4 @@
-# Pixel (2016) Permissions
+# Pixel (2016) Permissions - Magisk Module
 
 ## Description
 Get all the special features of Google Pixel (2016) on a general Android device. 

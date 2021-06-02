@@ -20,3 +20,11 @@ Download the module from [releases page](https://github.com/ZeroSimple/Pixel-201
 ### Release v1.0
 
  -The first version. 
+
+
+## F&Q
+
+Why is my phone recognized as a Pixel, but my backup photos are still taking up space on my Google Drive?
+
+For some unknown reason, the module is not working perfectly on some phones. After some users tested it, Google Photos will tell you that it has suspended backups because your Google Drive space was full, but it can still continue to backup after the free 15GB space is used up. So please rest assured that backups take up space doesn't mean the module isn't working properly. 
+

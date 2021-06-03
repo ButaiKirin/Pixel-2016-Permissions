@@ -28,3 +28,5 @@ Why is my phone recognized as a Pixel, but my backup photos are still taking up 
 
 For some unknown reason, the module is not working perfectly on some phones. After some users tested it, Google Photos will tell you that it has suspended backups because your Google Drive space was full, but it can still continue to backup after the free 15GB space is used up. So please rest assured that backups take up space doesn't mean the module isn't working. 
 
+We recommend that register a new Google account for backing up photos. Because once your free storage space is used up, Gmail may not be able to receive mail anymore. 
+
